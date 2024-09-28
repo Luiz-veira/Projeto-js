@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right,  #6d0000, #ff0000, #6d0000 );
+    height: 7em;
+    border: 5px solid red;
+    border-radius: 1em;
+}
+
+main{
+    display: flex;
+    align-items: center;
+}
